@@ -7,3 +7,5 @@ Baythmetry GEOTIFF - https://dukeuniv.maps.arcgis.com/home/item.html?id=3d1f2ac5
 US EEZ shapefile - https://www.marineregions.org/gazetteer.php?p=details&id=8456
 
 NC counties shoreline data - https://connect.ncdot.gov/resources/gis/Pages/GIS-Data-Layers.aspx
+
+Military Bases data - https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-military-installation-national-shapefile#sec-dates
