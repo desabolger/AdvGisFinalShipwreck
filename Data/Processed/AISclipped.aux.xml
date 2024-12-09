@@ -1,0 +1,31 @@
+<PAMDataset>
+  <SRS dataAxisToSRSAxisMapping="1,2">PROJCS["WGS 84 / Pseudo-Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],EXTENSION["PROJ4","+proj=merc +a=6378137 +b=6378137 +lat_ts=0 +lon_0=0 +x_0=0 +y_0=0 +k=1 +units=m +nadgrids=@null +wktext +no_defs"],AUTHORITY["EPSG","3857"]]</SRS>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Band_1</Description>
+    <NoDataValue>0.00000000000000E+00</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>1</HistMin>
+        <HistMax>29590</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>35790707|76345|46256|30685|12059|8066|7830|7445|4689|3272|2609|3174|2235|2395|2050|3334|1737|2316|2003|1072|857|1008|1392|807|688|784|1056|877|549|757|1094|832|680|333|539|373|410|332|281|243|251|315|262|152|175|214|224|128|143|167|148|80|85|109|107|88|87|42|86|58|85|55|56|42|51|52|39|50|53|36|32|24|39|34|42|46|34|38|35|26|18|21|34|14|15|15|14|21|31|24|26|15|17|28|24|14|22|16|22|17|16|26|22|20|32|11|11|13|16|17|22|11|23|18|12|17|13|10|9|19|5|8|6|3|11|8|9|6|5|9|10|10|6|8|10|12|4|7|4|9|9|5|2|3|6|6|5|10|4|4|4|5|1|4|5|3|6|7|1|6|2|1|2|0|1|3|0|2|1|1|0|0|1|1|2|1|0|0|1|0|1|0|0|1|0|1|2|0|2|1|1|0|1|0|0|0|0|0|1|0|0|1|0|0|0|0|1|2|0|0|0|0|1|0|1|1|0|1|0|1|0|0|1|0|2|0|0|1|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="BandName">Band_1</MDI>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_COUNT">36029000.000000</MDI>
+      <MDI key="STATISTICS_MEDIAN">1.000000</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
