@@ -1,0 +1,13 @@
+Desa Bolger, dkb33@duke.edu
+
+The AISVTC2023Atlantic.tif file is over 2 gb and github will not allow it to be uploaded.
+
+I have uploaded the file to box (for all to view and download with the link).  
+
+Here is that link: https://duke.box.com/s/imjvh7esyrpwlhsoupy95dtye6xs71i9.
+
+I believe that if all of those files are downloaded to the Data -> Raw file and not renamed, everything should run as normal.
+
+If there are any issues, please let me (Desa!) know, and I can work on them.
+
+Thank you and my apologies for this issue!
